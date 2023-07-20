@@ -8,7 +8,7 @@ import { Index } from "./screens/Index";
 const router = createBrowserRouter([
   {
     path: "/*",
-    element: <Celular />,
+    element: <Index  />,
   },
   {
     path: "/celular",
