@@ -16,7 +16,7 @@ const App = () => {
       return <DesktopForm />;
     }
   };
-AAAAAA
+
   const router = createBrowserRouter([
     {
       path: "/*",
